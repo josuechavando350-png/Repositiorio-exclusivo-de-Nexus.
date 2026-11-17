@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nexusbotstudio.com/sitemap.xml
+Sitemap: https://www.nexusbotstudio.com/sitemap.xml
